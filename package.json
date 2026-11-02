@@ -2,6 +2,7 @@
     "name": "my-web-app",
     "version": "1.0.0",
     "description": "A simple modern web application",
+    "homepage": "https://dactintf1998.github.io/F8_BT2/index.html",
     "scripts": {
         "start": "parcel ./index.html",
         "build": "parcel build ./index.html"
